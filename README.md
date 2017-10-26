@@ -1,1 +1,1 @@
-Apples, milk, oranges, bread, chocolate, cheese, chicken, soap
+Apples, milk, oranges, bread, chocolate, cheese, chicken, soap, chips
