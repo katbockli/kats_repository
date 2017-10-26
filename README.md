@@ -1,1 +1,1 @@
-Apples, milk, oranges, 
+Apples, milk, oranges, bread, chocolate, cheese 
